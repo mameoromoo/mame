@@ -1,2 +1,2 @@
-# Howdy!
+# Howdy, I'am Muhammad!
 I'm a software developer who has a love for technology and coding. I have worked on projects ranging from data analysis to web development and have knowledge in a number of programming languages. I value clear, effective code, and I'm constantly working to broaden my knowledge and skills. I like learning about new technologies and keeping up with the most recent advancements in the tech sector in my own time.
